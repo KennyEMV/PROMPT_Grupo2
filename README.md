@@ -1,1 +1,2 @@
-# PROMPT_Grupo2
+# PROYECTO
+Grupo #2
